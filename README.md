@@ -6,7 +6,7 @@ When we say object-oriented programming, we mean that our code is centered on ob
 ```
 class classname
 end
-'''
+```
 ## Implementing OOP concepts with Ruby
 Ruby supports the OOP paradigm by allowing the creation of classes and its objects. Like we said before, objects are the instances of a class and a class is like the blueprints for the object. A class lists out the attributes and defines the behavior for the object while the object is the real world representation. A class has two parts to it – data and methods So now that we have a class Language Let’s define the attributes as 1) LanguageName 2) TopicName Now we have our data but we need a way to access them. This is where our methods come in. class Methods are methods defined in the class that are used to access the various data in our class. For Implementing into code, we use a constructor, that takes in values of the attributes and assigns them to the space stored for the particular object.
 ## Constructor’s Syntax :
